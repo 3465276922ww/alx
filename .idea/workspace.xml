@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2c739fe-0bdb-45d3-99dd-0afe156a0de6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven-3.8.2-data" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.8.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.8.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yl0troWryxmRg1Kn7CRgNmViY7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\itripbackend\Itripauth\src\main\resoutces" />
+      <recent name="D:\itripbackend\itripdao\src\main\java\cn\itrip\dao" />
+      <recent name="D:\itripbackend\itripbeans\src\main\java\cn\itrip\pojo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.Itripauth-8081">
+    <configuration name="t1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bdqn.text.t1" />
+      <module name="itripbeans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bdqn.text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItripBiz-8083" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/itripbiz" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Itripauth-8081" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/Itripauth" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Itripsearch-8084" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/itripsearch" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Itriptrade-8085" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/itriptrade" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.t1" />
+      <item itemvalue="Maven.ItripBiz-8083" />
+      <item itemvalue="Maven.Itripauth-8081" />
+      <item itemvalue="Maven.Itripsearch-8084" />
+      <item itemvalue="Maven.Itriptrade-8085" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2c739fe-0bdb-45d3-99dd-0afe156a0de6" name="Default Changelist" comment="" />
+      <created>1632811084912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632811084912</updated>
+      <workItem from="1632811087645" duration="3055000" />
+      <workItem from="1632814181808" duration="2781000" />
+      <workItem from="1633912527260" duration="25000" />
+      <workItem from="1633912820347" duration="10329000" />
+      <workItem from="1634016982823" duration="3324000" />
+      <workItem from="1634021100394" duration="19000" />
+      <workItem from="1634021135601" duration="1961000" />
+      <workItem from="1634023555511" duration="1836000" />
+      <workItem from="1634025862373" duration="1518000" />
+      <workItem from="1634034935316" duration="1776000" />
+      <workItem from="1634036750754" duration="1053000" />
+      <workItem from="1634037871006" duration="1110000" />
+      <workItem from="1634256240121" duration="160000" />
+      <workItem from="1634256485064" duration="2814000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="95" key="#Project_Structure" timestamp="1634036807481">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="634" y="95" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1634036807481" />
+    <state x="397" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634257394125">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="397" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1634257394125" />
+    <state x="795" y="242" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1633922941404">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="795" y="242" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1633922941404" />
+    <state x="926" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1633920437099">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="926" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1633920437099" />
+    <state x="394" y="114" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1632813708980">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="394" y="114" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.864@0.0.1536.864" timestamp="1632813708980" />
+    <state x="731" y="361" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1633918805048">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="731" y="361" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1633918805048" />
+    <state x="831" y="321" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1633918797206">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="831" y="321" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.864@0.0.1536.864" timestamp="1633918797206" />
+    <state x="550" y="191" key="FileChooserDialogImpl" timestamp="1634037134693">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="550" y="191" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1634037134693" />
+    <state width="1493" height="130" key="GridCell.Tab.0.bottom" timestamp="1634258495732">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1634258495732" />
+    <state width="1493" height="130" key="GridCell.Tab.0.center" timestamp="1634258495732">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1634258495732" />
+    <state width="1493" height="130" key="GridCell.Tab.0.left" timestamp="1634258495732">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1634258495732" />
+    <state width="1493" height="130" key="GridCell.Tab.0.right" timestamp="1634258495732">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1634258495732" />
+    <state x="34" y="33" key="SettingsEditor" timestamp="1634038521455">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="34" y="33" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1634038521455" />
+    <state x="466" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1634256488710">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="466" y="261" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1634256488710" />
+    <state x="302" y="86" key="new project wizard" timestamp="1632815804569">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="302" y="86" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1632815804569" />
+    <state x="431" y="182" key="search.everywhere.popup" timestamp="1634025903359">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="182" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1634025903359" />
+    <state x="800" y="124" key="spring file set editor" timestamp="1634020882256">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="800" y="124" key="spring file set editor/0.0.1536.864@0.0.1536.864" timestamp="1634020882256" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/itripbeans/src/main/java/com/bdqn/text/t1.java</url>
+          <line>15</line>
+          <properties class="com.bdqn.text.t1" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
